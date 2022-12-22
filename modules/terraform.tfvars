@@ -20,6 +20,10 @@ tags = {
 bucketname = "bharat-joshi-bucket"
 
 
+Owner = "Bharat.joshi@cloudeq.com"
+
+
+
 #instances
 
 

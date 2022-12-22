@@ -11,6 +11,7 @@ module "mod1" {
 module "mod2" {
   source = "../s3bucket"
   bucketname = var.bucketname
+  Owner = var.Owner
 }
 
 
