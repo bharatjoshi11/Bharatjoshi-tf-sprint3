@@ -7,6 +7,7 @@ output "mod1-output2" {
 }
 
 output "mod2-output" {
+    
   value = module.mod2.s3-output
 }
 
